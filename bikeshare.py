@@ -9,6 +9,7 @@
 # stackoverflow
 
 # using atom editor
+#You should have Python 3, NumPy, and pandas installed using Anaconda
 
 import time
 import pandas as pd
