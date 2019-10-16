@@ -13,6 +13,8 @@
 # https://www.geeksforgeeks.org/python-pandas-series-dt-hour/
 # https://www2.cs.arizona.edu/people/mccann/errors-python#Five
 # stackoverflow
+# python documentation
+
 
 import time
 import pandas as pd
