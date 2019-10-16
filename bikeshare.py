@@ -8,6 +8,8 @@
 # https://www2.cs.arizona.edu/people/mccann/errors-python#Five
 # stackoverflow
 
+# using atom editor
+
 import time
 import pandas as pd
 import numpy as np
